@@ -15,7 +15,7 @@
 
 <!-- Dynamic Animated Typing Text -->
 <a href="https://www.excelmasters.in/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=1100&color=10B981&center=true&vCenter=true&width=650&lines=Interactive+Learning+Hub+%26+Spreadsheet+Tooling+%F0%9F%93%8A;Official+Web+Platform+%40+excelmasters.in+%F0%9F%8C%90;Automated+Community+Bots+%26+Workflow+Engines+%E2%9A%A1;Founded+%26+Engineered+by+Daksh+Rawat+(Kukzze)+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=1100&color=10B981&center=true&vCenter=true&width=650&lines=Member+of+the+NVIDIA+Inception+program+%E2%9C%A8;Interactive+Learning+Hub+%26+Spreadsheet+Tooling+%F0%9F%93%8A;Official+Web+Platform+%40+excelmasters.in+%F0%9F%8C%90;Automated+Community+Bots+%26+Workflow+Engines+%E2%9A%A1;Founded+%26+Engineered+by+Daksh+Rawat+(Kukzze)+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -26,6 +26,9 @@
   </a>
   <a href="https://discord.gg/7vaHhewmtJ" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.nvidia.com/en-us/startups/" target="_blank">
+    <img src="https://img.shields.io/badge/NVIDIA%20Inception-Program%20Member-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Inception" />
   </a>
   <a href="mailto:kukzze@excelmasters.in">
     <img src="https://img.shields.io/badge/Email-Contact%20Us-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -38,7 +41,28 @@
 
 ---
 
-### 🌟 About Excel Masters
+### 🌐 Global Incubators & Accelerator Programs
+
+<table width="100%">
+  <tr>
+    <td width="100%" valign="middle" align="center">
+      <br/>
+      <a href="https://www.nvidia.com/en-us/startups/">
+        <img src="https://raw.githubusercontent.com/ExcelMasters-in/.github/main/profile/assets/nvidia-inception-badge.png" height="58" alt="NVIDIA Inception Program Badge" />
+      </a>
+      <br/><br/>
+      <p align="center">
+        <b>Excel Masters is a member of the NVIDIA Inception program.</b><br/>
+        Accelerating intelligent spreadsheet computation, automated formula generation, and data-driven learning platforms with NVIDIA accelerated computing and developer toolkits.
+      </p>
+      <br/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📖 About Excel Masters
 
 **Excel Masters** is an educational and productivity platform focused on providing modern learning resources, interactive spreadsheet tooling, workflow automation, and student portals. 
 
@@ -48,7 +72,7 @@ We engineer high-performance web applications and backend automation bots design
 
 ### 🚀 Key Projects & Ecosystem
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🌐 <a href="https://www.excelmasters.in/">Official Web Portal</a></h3>
@@ -88,7 +112,7 @@ We engineer high-performance web applications and backend automation bots design
 Our organization repositories run automated GitHub workflows that handle developer triage, issue categorization, and community support:
 
 * 🤖 **Smart Auto-Reply**: Greets new contributors and directs them to instant formula resources and documentation.
-* 🏷️ **Automatic Triage & Assignment**: Auto-assigns new issues to lead maintainers and applies workflow labels (`triage`, `community`).
+* 🎯 **Automatic Triage & Assignment**: Auto-assigns new issues to lead maintainers and applies workflow labels (`triage`, `community`).
 * 🛡️ **CI & Integrity Gates**: Continuous integration validating markdown docs, links, and community templates on every branch.
 
 ---
@@ -107,8 +131,8 @@ Our organization repositories run automated GitHub workflows that handle develop
 
 Excel Masters is founded and engineered by:
 * **[Daksh Rawat (Kukzze)](https://github.com/Kukzze)** — *Founder & Systems Architect*
-  * Accepted Member: **MongoDB for Startups** & **NVIDIA Inception Program**
-  * Upstream Contributor: Biome, Discord.js, PaperMC, MDN Web Docs
+  * Member: **NVIDIA Inception Program** & **MongoDB for Startups**
+  * Upstream Contributor: PaperMC, DefinitelyTyped, Biome, Discord.js, MDN Web Docs
 
 ---
 
@@ -125,6 +149,7 @@ Excel Masters is founded and engineered by:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%23059669&custom_color_2=%23064e3b&height=80&section=footer" width="100%" alt="Footer Banner" />
   
   <p align="center">
-    <sub>© 2026 <b><a href="https://www.excelmasters.in/">Excel Masters</a></b> • Built with pride in India 🇮🇳</sub>
+    <sub>© 2026 <b><a href="https://www.excelmasters.in/">Excel Masters</a></b> • Built with pride in India 🇮🇳</sub><br/>
+    <sub><small>© 2026 NVIDIA, the NVIDIA logo, and NVIDIA Inception are trademarks and/or registered trademarks of NVIDIA Corporation.</small></sub>
   </p>
 </div>
