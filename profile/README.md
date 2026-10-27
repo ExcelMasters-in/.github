@@ -13,6 +13,13 @@
 
 **Official Open Ecosystem, Web Platforms & Automated Community Tooling**
 
+<!-- Dynamic Animated Typing Text -->
+<a href="https://www.excelmasters.in/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=1100&color=10B981&center=true&vCenter=true&width=650&lines=Interactive+Learning+Hub+%26+Spreadsheet+Tooling+%F0%9F%93%8A;Official+Web+Platform+%40+excelmasters.in+%F0%9F%8C%90;Automated+Community+Bots+%26+Workflow+Engines+%E2%9A%A1;Founded+%26+Engineered+by+Daksh+Rawat+(Kukzze)+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
 <p align="center">
   <a href="https://www.excelmasters.in/" target="_blank">
     <img src="https://img.shields.io/badge/Website-excelmasters.in-059669?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
@@ -24,6 +31,7 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Us-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://img.shields.io/badge/Domain-Verified-10B981?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Verified Domain" />
+  <img src="https://img.shields.io/badge/Status-Active%20Platform-10b981?style=for-the-badge&logo=rocket&logoColor=white" alt="Active Platform" />
 </p>
 
 </div>
@@ -75,6 +83,16 @@ We engineer high-performance web applications and backend automation bots design
 
 ---
 
+### ⚡ Built-in Community Automation & AI Bot
+
+Our organization repositories run automated GitHub workflows that handle developer triage, issue categorization, and community support:
+
+* 🤖 **Smart Auto-Reply**: Greets new contributors and directs them to instant formula resources and documentation.
+* 🏷️ **Automatic Triage & Assignment**: Auto-assigns new issues to lead maintainers and applies workflow labels (`triage`, `community`).
+* 🛡️ **CI & Integrity Gates**: Continuous integration validating markdown docs, links, and community templates on every branch.
+
+---
+
 ### 🛠️ Organization Tech Stack
 
 <div align="center">
@@ -82,6 +100,15 @@ We engineer high-performance web applications and backend automation bots design
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,html,css,git,github,vscode,discord,vercel&perline=7" alt="Tech Stack" />
 
 </div>
+
+---
+
+### 👨‍💻 Leadership & Founder
+
+Excel Masters is founded and engineered by:
+* **[Daksh Rawat (Kukzze)](https://github.com/Kukzze)** — *Founder & Systems Architect*
+  * Accepted Member: **MongoDB for Startups** & **NVIDIA Inception Program**
+  * Upstream Contributor: Biome, Discord.js, PaperMC, MDN Web Docs
 
 ---
 

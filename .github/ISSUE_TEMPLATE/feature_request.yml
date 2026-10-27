@@ -1,0 +1,29 @@
+name: 🚀 Feature Request
+description: Propose an idea or tool improvement for Excel Masters
+title: "[Feature]: "
+labels: ["enhancement", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve Excel Masters! Please describe your proposed feature or idea below.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Is your feature request related to a problem?
+      description: A clear and concise description of the challenge or workflow friction.
+      placeholder: "I'm always looking for a simpler way to..."
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Solution or Tool
+      description: Describe what you'd like to see added or improved.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives Considered
+      description: Any alternative solutions or workarounds you've evaluated.
