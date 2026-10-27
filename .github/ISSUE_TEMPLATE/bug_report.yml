@@ -1,0 +1,34 @@
+name: 🐛 Bug Report
+description: Report a bug, broken link, or formula issue in Excel Masters
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report an issue!
+  - type: textarea
+    id: description
+    attributes:
+      label: Bug Description
+      description: A clear and concise description of what the error or unexpected behavior is.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to Reproduce
+      description: How to reproduce the issue.
+      placeholder: |
+        1. Open '...'
+        2. Navigate to '...'
+        3. Observe error
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What should have happened instead.
+    validations:
+      required: true

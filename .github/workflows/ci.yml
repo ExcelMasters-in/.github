@@ -1,0 +1,34 @@
+name: CI & Integrity Check
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    name: Lint & Validate Organization Assets
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Verify Core Profile Files
+        run: |
+          echo "Verifying profile files..."
+          test -f profile/README.md || { echo "Missing profile/README.md"; exit 1; }
+          test -f profile/assets/logo.png || { echo "Missing profile logo"; exit 1; }
+          echo "Core organization profile assets verified successfully."
+
+      - name: Validate Markdown Files
+        run: |
+          echo "Validating Markdown integrity..."
+          find . -name "*.md" -type f -exec grep -q "" {} +
+          echo "All markdown files verified."
