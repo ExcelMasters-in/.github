@@ -17,7 +17,7 @@ jobs:
     steps:
       - name: Auto-assign Issue to Lead Maintainer
         if: github.event_name == 'issues'
-        uses: actions/github-script@v7
+        uses: actions/github-script@v9
         with:
           script: |
             const issueNumber = context.issue.number;
@@ -68,7 +68,7 @@ jobs:
 
       - name: Welcome Pull Request Contributor
         if: github.event_name == 'pull_request_target'
-        uses: actions/github-script@v7
+        uses: actions/github-script@v9
         with:
           script: |
             const prNumber = context.issue.number;
